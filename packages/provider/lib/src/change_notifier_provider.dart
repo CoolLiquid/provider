@@ -8,7 +8,7 @@ import 'proxy_provider.dart';
 /// dependents whenever [ChangeNotifier.notifyListeners] is called.
 ///
 /// Depending on whether you want to **create** or **reuse** a [ChangeNotifier],
-/// you will want to use different constructors.
+/// you will want to use` different constructors.
 ///
 /// ## Creating a [ChangeNotifier]:
 ///
